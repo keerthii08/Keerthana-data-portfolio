@@ -15,6 +15,9 @@ I am passionate about extracting insights from data and building intelligent sol
 - Built a regression model using Linear Regression
 - Used Pandas & Matplotlib for data analysis & visualization
 - Achieved 92% accuracy on test data
+### 1. 📈 [Sales Prediction Model](https://github.com/keerthii08/Keerthana-data-portfolio/blob/main/sales_prediction.ipynb)
+- Built a regression model using Linear Regression
+- Used dummy data to show profit prediction
 
 ### 2. 🧹 Data Cleaning & EDA
 - Performed Exploratory Data Analysis on a messy dataset
